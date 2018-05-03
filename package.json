@@ -1,0 +1,33 @@
+{
+  "name": "grabber",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "appbase-js": "^3.0.0",
+    "bootstrap": "^4.1.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.16.3",
+    "fb": "^2.0.0",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.1",
+    "mongodb": "^3.0.7",
+    "mongoose": "^5.0.15",
+    "morgan": "~1.9.0",
+    "node-vkapi": "^3.0.7",
+    "popper": "^1.0.1",
+    "popper.js": "^1.14.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "readable-stream": "^2.3.6",
+    "stream": "0.0.2",
+    "through2": "^2.0.3",
+    "twitter": "^1.7.1",
+    "vk-io": "^4.0.0-beta.6"
+  }
+}

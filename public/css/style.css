@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.search .search_input {
+  padding: 8px 15px;
+  font-size: 18px;
+  height: 45px;
+}
+.search .search_btn.btn {
+  margin: 0 0 0 2px;
+  padding: 10px 70px;
+  height: 45px;
+}
+.noactive {
+  cursor: default;
+}
